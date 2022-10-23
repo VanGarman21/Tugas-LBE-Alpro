@@ -7,3 +7,6 @@
 
 * Nama : Hanifi Abrar Setiawan
 * NRP : 5025211066
+
+* Nama : Fihriz Ilham Rabbany
+* NRP : 5025211040
